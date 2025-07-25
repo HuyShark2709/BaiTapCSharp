@@ -1,0 +1,8 @@
+E:\C#\BaiTapTest\bai12\bin\Debug\bai12.exe.config
+E:\C#\BaiTapTest\bai12\bin\Debug\bai12.exe
+E:\C#\BaiTapTest\bai12\bin\Debug\bai12.pdb
+E:\C#\BaiTapTest\bai12\obj\Debug\bai12.csproj.AssemblyReference.cache
+E:\C#\BaiTapTest\bai12\obj\Debug\bai12.csproj.CoreCompileInputs.cache
+E:\C#\BaiTapTest\bai12\obj\Debug\bai12.exe
+E:\C#\BaiTapTest\bai12\obj\Debug\bai12.pdb
+E:\C#\BaiTapTest\bai12\obj\Debug\bai12.exe.config
